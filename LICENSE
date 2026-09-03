@@ -1,0 +1,29 @@
+MIT License
+
+Copyright (c) 2026 jfg-jfg
+
+本项目自身代码（index.html / app.js / build 脚本）按 MIT 许可发布，见下文。
+
+第三方数据与素材不在 MIT 范围内，版权归各自所有者：
+- data.js 的对象中文名/拼音表整理自 https://github.com/boyl/isaac-chinese-console（无许可证仓库）
+- 成就英文名列表来自 https://github.com/Higeners/isaacunlocker（无许可证仓库）
+- icons/ 道具图标来自 isaacunlocker，游戏素材版权归 Nicalis / Edmund McMillen 所有
+- 组合预设内容整理自 B 站 UP 主「我是谁压实度」的系列视频
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

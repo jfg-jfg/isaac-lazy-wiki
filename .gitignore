@@ -1,0 +1,9 @@
+# 测试依赖（cd build && npm i puppeteer-core 按需安装）
+node_modules/
+package.json
+package-lock.json
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
